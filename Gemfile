@@ -72,7 +72,7 @@ gem 'rails_admin'
 # gem for Bootstrap
 gem 'bootstrap', ">= 4.3.1"
 gem 'jquery-rails'
-gem 'rails_12factor'
+# gem 'rails_12factor'
 gem 'jquery-turbolinks'
 
 # gem for background processing
